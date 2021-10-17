@@ -1,0 +1,903 @@
+Symbol,Name,Market Cap,Price,Circulating Supply,Cryptocurrency
+BTC,Bitcoin,"$119,928,830,414",$7192.77,16673525,coin
+ETH,Ethereum,"$30,445,727,882",$318.35,95636023,coin
+BCH,Bitcoin Cash,"$12,893,939,363",$768.62,16775550,coin
+LAK,Lakran,$100,$0.01,18400000,coin
+XRP,Ripple,"$8,343,542,375",$0.216538,38531538922,coin
+SHIB,SHIBA,,,,coin
+LTC,Litecoin,"$3,480,603,868",$64.74,53759232,coin
+DASH,Dash,"$2,612,599,061",$340.19,7679710,coin
+XEM,NEM,"$2,072,880,000",$0.230320,8999999999,coin
+NEO,NEO,"$2,007,375,500",$30.88,65000000,coin
+XMR,Monero,"$1,811,246,829",$118.13,15333177,coin
+MIOTA,IOTA,"$1,561,626,278",$0.561831,2779530283,coin
+ETC,Ethereum Classic,"$1,478,771,570",$15.20,97300406,coin
+QTUM,Qtum,"$900,634,944",$12.23,73650484,coin
+ADA,Cardano,"$773,500,444",$0.029834,25927070538,coin
+LSK,Lisk,"$697,718,444",$6.08,114680875,coin
+ZEC,Zcash,"$672,246,433",$259.74,2588181,coin
+XLM,Stellar Lumens,"$614,261,682",$0.037030,16588351568,coin
+BCC,BitConnect,"$592,687,655",$277.20,2138092,coin
+HSR,Hshare,"$481,316,098",$11.40,42231824,coin
+WAVES,Waves,"$478,375,000",$4.78,100000000,coin
+STRAT,Stratis,"$347,729,495",$3.53,98616171,coin
+ARK,Ark,"$318,253,009",$3.25,97981284,coin
+KMD,Komodo,"$250,292,373",$2.48,100945510,coin
+BCN,Bytecoin,"$249,928,501",$0.001364,"1,83254E+11",coin
+STEEM,Steem,"$232,320,616",$0.944199,246050479,coin
+DCR,Decred,"$208,248,341",$33.97,6131173,coin
+BTS,BitShares,"$204,337,272",$0.078539,2601730000,coin
+ETN,Electroneum,"$203,516,599",$0.039788,5114998885,coin
+PIVX,PIVX,"$194,675,495",$3.56,54689966,coin
+VTC,Vertcoin,"$186,531,992",$4.54,41089600,coin
+FCT,Factom,"$182,384,349",$20.86,8745102,coin
+BTCD,BitcoinDark,"$162,464,945",$126.05,1288862,coin
+MONA,MonaCoin,"$159,806,791",$2.89,55225000,coin
+DOGE,Dogecoin,"$148,728,249",$0.001330,"1,11867E+11",coin
+SC,Siacoin,"$142,773,618",$0.004644,30746255097,coin
+ETP,Metaverse ETP,"$131,903,810",$3.63,36321429,coin
+GBYTE,Byteball Bytes,"$128,272,725",$198.80,645222,coin
+BLOCK,Blocknet,"$127,381,351",$26.11,4878175,coin
+GAME,GameCredits,"$124,072,614",$1.93,64355352,coin
+SYS,Syscoin,"$123,651,800",$0.233849,528767710,coin
+XVG,Verge,"$107,145,456",$0.007537,14215457410,coin
+GXS,GXShares,"$102,645,048",$2.53,40510000,coin
+DGB,DigiByte,"$98,183,887",$0.010463,9383913517,coin
+LKK,Lykke,"$96,344,199",$0.368605,261375181,coin
+MNX,MinexCoin,"$87,525,230",$6.73,13000000,coin
+PURA,Pura,"$79,700,162",$0.464078,171738722,coin
+VEN,VeChain,"$72,528,195",$0.261681,277162633,coin
+NXT,Nxt,"$70,928,896",$0.071000,998999942,coin
+PART,Particl,"$68,697,468",$8.85,7766735,coin
+ZEN,ZenCash,"$66,516,872",$27.09,2455648,coin
+KCS,KuCoin Shares,"$61,594,283",$0.676540,91043076,coin
+NXS,Nexus,"$59,591,727",$1.11,53663035,coin
+XZC,ZCoin,"$59,521,948",$17.51,3399312,coin
+NEBL,Neblio,"$58,506,797",$4.67,12534771,coin
+NAV,NAV Coin,"$55,646,408",$0.897344,62012348,coin
+CNX,Cryptonex,"$54,564,332",$1.21,44955166,coin
+UBQ,Ubiq,"$52,996,884",$1.37,38760529,coin
+FAIR,FairCoin,"$52,671,947",$0.990189,53193831,coin
+IOC,I/O Coin,"$46,087,406",$2.81,16379761,coin
+BDL,Bitdeal,"$45,049,348",$0.288390,156209812,coin
+GRS,Groestlcoin,"$44,781,289",$0.651178,68769659,coin
+NLC2,NoLimitCoin,"$42,460,372",$0.207873,204261121,coin
+PPC,Peercoin,"$40,658,193",$1.66,24436360,coin
+VIA,Viacoin,"$37,436,342",$1.64,22886347,coin
+POT,PotCoin,"$35,996,700",$0.164684,218580436,coin
+ACT,Achain,"$35,606,376",$0.120346,295866721,coin
+NLG,Gulden,"$35,041,395",$0.098439,355968845,coin
+XCP,Counterparty,"$34,771,056",$13.28,2617514,coin
+B3,B3Coin,"$33,532,965",$0.001198,27988919648,coin
+RISE,Rise,"$33,050,563",$0.292123,113139200,coin
+RDD,ReddCoin,"$33,002,524",$0.001151,28663700106,coin
+EMC,Emercoin,"$30,690,903",$0.749798,40932228,coin
+CLOAK,Cloakcoin,"$29,856,737",$5.83,5123307,coin
+LEO,LEOcoin,"$29,479,322",$0.317036,92984148,coin
+BAY,BitBay,"$28,541,977",$0.028320,1007834595,coin
+XEL,Elastic,"$28,063,564",$0.320850,87466305,coin
+NMC,Namecoin,"$25,380,944",$1.72,14736400,coin
+SMART,SmartCash,"$25,086,955",$0.094210,266287322,coin
+AEON,Aeon,"$24,585,053",$1.68,14651140,coin
+DMD,Diamond,"$24,569,563",$9.80,2506282,coin
+DCT,DECENT,"$24,120,019",$0.470120,51306089,coin
+CRW,Crown,"$23,960,167",$1.50,15936260,coin
+LBC,LBRY Credits,"$23,944,025",$0.229360,104394945,coin
+SKY,Skycoin,"$23,909,661",$4.03,5933198,coin
+ATB,ATBCoin,"$23,027,729",$0.592299,38878555,coin
+OK,OKCash,"$22,607,416",$0.308957,73173340,coin
+FTC,Feathercoin,"$21,523,979",$0.118770,181224040,coin
+SIB,SIBCoin,"$20,837,712",$1.32,15789854,coin
+ION,ION,"$20,425,257",$1.17,17513017,coin
+XRB,RaiBlocks,"$18,639,037",$0.139882,133248290,coin
+RBY,Rubycoin,"$18,580,776",$0.744306,24963894,coin
+BLK,BlackCoin,"$18,254,646",$0.238684,76480393,coin
+PPY,Peerplays,"$17,012,055",$4.46,3818600,coin
+TCC,The ChampCoin,"$16,836,443",$0.102085,164925727,coin
+EXP,Expanse,"$16,613,632",$2.10,7906397,coin
+GRC,GridCoin,"$16,539,074",$0.042374,390312753,coin
+EMC2,Einsteinium,"$16,489,868",$0.076548,215420068,coin
+VRC,VeriCoin,"$16,469,012",$0.540996,30442021,coin
+XDN,DigitalNote,"$16,214,987",$0.002355,6885695758,coin
+TOA,ToaCoin,"$15,887,016",$0.009183,1730133073,coin
+SLS,SaluS,"$15,586,916",$15.51,1004784,coin
+ENRG,Energycoin,"$15,540,397",$0.128038,121373321,coin
+MUE,MonetaryUnit,"$15,429,959",$0.120490,128060078,coin
+ECN,E-coin,"$15,354,298",$3.42,4487186,coin
+GOLOS,Golos,"$15,212,224",$0.122168,124518891,coin
+DBIX,DubaiCoin,"$15,031,327",$10.23,1468850,coin
+SLR,SolarCoin,"$14,969,835",$0.402070,37231911,coin
+XVC,Vcash,"$14,770,912",$0.968302,15254447,coin
+BTX,Bitcore,"$13,777,999",$11.52,1195602,coin
+OMNI,Omni,"$13,487,358",$24.08,560083,coin
+CLAM,Clams,"$13,432,243",$4.96,2705773,coin
+FLO,FlorinCoin,"$13,052,131",$0.093473,139635009,coin
+RADS,Radium,"$12,989,572",$3.84,3384825,coin
+XSPEC,Spectrecoin,"$12,963,270",$0.623676,20785264,coin
+SHIFT,Shift,"$12,940,299",$1.14,11384895,coin
+BURST,Burst,"$12,611,272",$0.007005,1800339818,coin
+XAS,Asch,"$12,440,722",$0.611921,20330601,coin
+XWC,WhiteCoin,"$12,325,311",$0.049605,248469617,coin
+TX,TransferCoin,"$12,300,259",$1.99,6195699,coin
+BSD,BitSend,"$11,698,076",$0.683938,17104000,coin
+LMC,LoMoCoin,"$10,723,282",$0.048886,219352818,coin
+SPHR,Sphere,"$10,195,715",$3.31,3082940,coin
+NVC,Novacoin,"$10,146,001",$5.36,1893568,coin
+UNO,Unobtanium,"$10,049,349",$50.80,197839,coin
+CRDNC,Credence Coin,"$9,839,223",$2.97,3312490,coin
+VOX,Voxels,"$9,794,232",$0.046639,210000000,coin
+CNT,Centurion,"$9,731,933",$0.132946,73202146,coin
+PZM,PRIZM,"$9,476,305",$0.960029,9870853,coin
+CSC,CasinoCoin,"$9,245,332",$0.239509,38601187,coin
+NEOS,NeosCoin,"$9,225,818",$2.59,3561666,coin
+BTDX,Bitcloud,"$8,929,536",$0.606524,14722477,coin
+GAM,Gambit,"$8,750,343",$7.31,1197137,coin
+CMP,Compcoin,"$8,726,412",$2.02,4316160,coin
+PINK,PinkCoin,"$8,296,032",$0.022524,368322950,coin
+KORE,Kore,"$8,256,172",$4.08,2021986,coin
+YOC,Yocoin,"$7,399,889",$0.067994,108831500,coin
+XBY,XTRABYTES,"$7,359,665",$0.017115,430000000,coin
+CURE,Curecoin,"$7,187,060",$0.302009,23797502,coin
+ODN,Obsidian,"$6,962,686",$0.285356,24400000,coin
+EDR,E-Dinar Coin,"$6,917,248",$0.007805,886211988,coin
+MOON,Mooncoin,"$6,752,901",$0.000030,"2,22689E+11",coin
+HEAT,HEAT,"$6,542,454",$0.217604,30065872,coin
+DYN,Dynamic,"$6,507,584",$3.51,1852603,coin
+MUSIC,Musicoin,"$6,476,237",$0.014887,435014658,coin
+SEQ,Sequence,"$6,258,663",$0.138678,45130900,coin
+BITB,BitBean,"$6,200,525",$0.002805,2210723000,coin
+GLD,GoldCoin,"$6,132,458",$0.150991,40614724,coin
+XST,Stealthcoin,"$6,005,524",$0.219678,27337851,coin
+EQT,EquiTrader,"$5,994,815",$0.618966,9685209,coin
+HTML5,HTMLCOIN,"$5,921,132",$0.000146,40659020000,coin
+POSW,PoSW Coin,"$5,904,064",$0.133879,44100000,coin
+MTNC,Masternodecoin,"$5,878,103",$0.122143,48124761,coin
+XC,XCurrency,"$5,851,267",$0.998137,5862188,coin
+EXCL,ExclusiveCoin,"$5,827,367",$1.35,4319512,coin
+RUP,Rupee,"$5,703,393",$0.258475,22065550,coin
+AUR,Auroracoin,"$5,482,559",$0.633226,8658139,coin
+ERC,EuropeCoin,"$5,433,113",$0.546373,9943963,coin
+PASC,Pascal Coin,"$5,413,485",$0.361253,14985300,coin
+XBC,Bitcoin Plus,"$5,310,373",$51.75,102621,coin
+ABY,ArtByte,"$5,074,996",$0.006403,792537250,coin
+GCR,Global Currency Reserve,"$5,059,685",$0.048956,103352320,coin
+SNRG,Synergy,"$4,802,894",$1.51,3178893,coin
+BELA,Bela,"$4,626,606",$0.120403,38426000,coin
+PTC,Pesetacoin,"$4,605,368",$0.035046,131408114,coin
+IOP,Internet of People,"$4,504,127",$2.48,1816107,coin
+XMY,Myriad,"$4,502,158",$0.002947,1527812500,coin
+HUSH,Hush,"$4,501,774",$2.01,2242500,coin
+ZEIT,Zeitcoin,"$4,468,185",$0.000121,36971147180,coin
+SWIFT,Bitswift,"$4,422,980",$1.09,4069016,coin
+DIME,Dimecoin,"$4,417,512",$0.000008,"5,3711E+11",coin
+ADC,AudioCoin,"$4,270,005",$0.005120,833925176,coin
+NTRN,Neutron,"$4,257,735",$0.133097,31989716,coin
+VRM,VeriumReserve,"$4,166,973",$3.07,1359016,coin
+SYNX,Syndicate,"$4,056,374",$0.251542,16126030,coin
+GCC,TheGCCcoin,"$4,050,713",$0.008147,497174956,coin
+EAC,EarthCoin,"$4,014,533",$0.000349,11490449756,coin
+THC,HempCoin,"$3,858,017",$0.016894,228364777,coin
+BLITZ,Blitzcash,"$3,832,536",$0.934082,4102997,coin
+TIPS,FedoraCoin,"$3,817,256",$0.000009,"4,43168E+11",coin
+TRUST,TrustPlus,"$3,755,383",$0.117039,32086595,coin
+XGOX,GO! Coin,"$3,708,948",$0.018531,200142895,coin
+GEO,GeoCoin,"$3,551,413",$1.08,3290173,coin
+RIC,Riecoin,"$3,514,324",$0.090583,38796775,coin
+BTM,Bitmark,"$3,477,571",$0.489421,7105480,coin
+EGC,EverGreenCoin,"$3,476,620",$0.260982,13321301,coin
+EFL,e-Gulden,"$3,427,058",$0.220735,15525666,coin
+BRX,Breakout Stake,"$3,425,614",$0.546517,6268082,coin
+MEME,Memetic,"$3,395,910",$0.206328,16458796,coin
+2GIVE,2GIVE,"$3,379,663",$0.006542,516613240,coin
+ZCL,ZClassic,"$3,368,635",$1.86,1809800,coin
+MINT,Mintcoin,"$3,302,743",$0.000132,24947260808,coin
+SBD,Steem Dollars,"$3,256,799",$0.984571,3307836,coin
+NOTE,DNotes,"$3,242,391",$0.025170,128818117,coin
+XPM,Primecoin,"$3,149,258",$0.148115,21262250,coin
+VIVO,VIVO,"$3,129,823",$5.08,615823,coin
+BCO,BridgeCoin,"$3,069,788",$0.117112,26212416,coin
+TRC,Terracoin,"$3,028,270",$0.141638,21380350,coin
+SPR,SpreadCoin,"$2,951,111",$0.325544,9065167,coin
+PKB,ParkByte,"$2,894,089",$0.607488,4764026,coin
+DOPE,DopeCoin,"$2,890,115",$0.026017,111085648,coin
+BRK,Breakout,"$2,887,603",$0.159166,18142083,coin
+FIMK,FIMKrypto,"$2,737,783",$0.004745,577004618,coin
+SXC,Sexcoin,"$2,728,957",$0.021812,125110357,coin
+BLU,BlueCoin,"$2,704,323",$0.004706,574683675,coin
+XP,XP,"$2,477,385",$0.000015,"1,63295E+11",coin
+PUT,PutinCoin,"$2,475,811",$0.012333,200745265,coin
+CRAVE,Crave,"$2,458,148",$1.73,1423503,coin
+VTR,vTorrent,"$2,418,255",$0.223582,10815966,coin
+KRB,Karbowanec,"$2,415,218",$0.511701,4719978,coin
+ONION,DeepOnion,"$2,386,360",$0.637150,3745366,coin
+NYC,NewYorkCoin,"$2,323,171",$0.000018,"1,29033E+11",coin
+INN,Innova,"$2,269,748",$4.20,541004,coin
+RAIN,Condensate,"$2,266,738",$0.029827,75995929,coin
+ATMS,Atmos,"$2,242,091",$0.022358,100280470,coin
+BIS,Bismuth,"$2,223,558",$0.455035,4886565,coin
+CHC,ChainCoin,"$2,221,733",$0.139095,15972777,coin
+CANN,CannabisCoin,"$2,176,946",$0.028187,77231176,coin
+CREA,Creativecoin,"$2,176,477",$0.171372,12700306,coin
+BTCZ,BitcoinZ,"$2,140,792",$0.004859,440600056,coin
+PND,Pandacoin,"$2,137,879",$0.000066,32514916898,coin
+QRK,Quark,"$2,072,469",$0.008230,251813885,coin
+HUC,HunterCoin,"$2,060,436",$0.103020,20000350,coin
+XMG,Magi,"$2,058,770",$0.272164,7564448,coin
+START,Startcoin,"$2,048,317",$0.045438,45079785,coin
+ONX,Onix,"$2,046,482",$0.074600,27432814,coin
+CHIPS,CHIPS,"$2,009,866",$0.107909,18625566,coin
+CBX,Crypto Bullion,"$1,941,423",$1.93,1004165,coin
+ZOI,Zoin,"$1,929,913",$0.128493,15019600,coin
+ZEPH,Zephyr,"$1,875,394",$0.014885,125990535,coin
+ARC,ArcticCoin,"$1,847,040",$0.075263,24541247,coin
+MAO,Mao Zedong,"$1,789,105",$0.287565,6221568,coin
+ZENI,Zennies,"$1,726,792",$0.001725,1000812836,coin
+BASH,LuckChain,"$1,643,385",$0.002301,714269773,coin
+XIOS,Xios,"$1,601,216",$0.787589,2033061,coin
+DOT,Dotcoin,"$1,600,689",$0.006079,263334500,coin
+ESP,Espers,"$1,562,082",$0.000075,20764860184,coin
+NKA,IncaKoin,"$1,549,864",$0.000141,10957901181,coin
+LOG,Woodcoin,"$1,530,801",$0.190512,8035193,coin
+PIRL,Pirl,"$1,493,413",$0.485551,3075708,coin
+ADZ,Adzcoin,"$1,408,150",$0.032065,43915340,coin
+ZNY,Bitzeny,"$1,395,753",$0.018459,75614500,coin
+EBST,eBoost,"$1,393,248",$0.116104,12000000,coin
+DFT,DraftCoin,"$1,295,875",$0.632351,2049298,coin
+ANC,Anoncoin,"$1,283,944",$0.608413,2110317,coin
+HYP,HyperStake,"$1,260,891",$0.001205,1046460905,coin
+HNC,Helleniccoin,"$1,222,565",$0.019206,63654380,coin
+BYC,Bytecent,"$1,201,623",$0.647308,1856338,coin
+INFX,Influxcoin,"$1,170,960",$0.699756,1673383,coin
+TZC,TrezarCoin,"$1,115,678",$0.014402,77466900,coin
+LINDA,Linda,"$1,038,791",$0.000173,6003429666,coin
+CCRB,CryptoCarbon,"$1,005,748",$0.282346,3562111,coin
+HPC,Happycoin,"$988,901",$0.079254,12477555,coin
+XFT,Footy Cash,"$974,893",$0.214720,4540299,coin
+SUMO,Sumokoin,"$961,853",$0.453563,2120660,coin
+FST,Fastcoin,"$955,624",$0.007584,126000000,coin
+USNBT,NuBits,"$955,402",$0.994255,960923,coin
+XMCC,MonacoCoin,"$943,220",$0.383858,2457211,coin
+GRWI,Growers International,"$935,756",$0.863191,1084066,coin
+LINX,Linx,"$913,631",$0.085325,10707600,coin
+XCN,Cryptonite,"$896,848",$0.002442,367227854,coin
+UNIFY,Unify,"$880,126",$0.049560,17758943,coin
+BRIA,BriaCoin,"$851,011",$1.69,504685,coin
+LDOGE,LiteDoge,"$837,136",$0.000056,14880299509,coin
+WDC,WorldCoin,"$832,408",$0.007117,116962351,coin
+MEC,Megacoin,"$811,456",$0.022422,36190187,coin
+XHI,HiCoin,"$788,429",$0.004156,189729990,coin
+BTA,Bata,"$777,968",$0.156141,4982468,coin
+WHL,WhaleCoin,"$749,607",$0.246988,3034993,coin
+SIGT,Signatum,"$748,971",$0.006937,107972766,coin
+UFO,UFO Coin,"$748,335",$0.000216,3469752512,coin
+USC,Ultimate Secure Cash,"$731,185",$0.070693,10343113,coin
+SHORTY,Shorty,"$726,101",$0.007261,100000000,coin
+KEK,KekCoin,"$723,588",$0.070022,10333718,coin
+NETKO,Netko,"$720,856",$0.172519,4178415,coin
+CPC,Capricoin,"$711,929",$0.357745,1990045,coin
+UNB,UnbreakableCoin,"$704,249",$0.309132,2278150,coin
+ZET,Zetacoin,"$682,154",$0.004086,166958073,coin
+NET,NetCoin,"$679,309",$0.000863,787126712,coin
+FNC,FinCoin,"$653,361",$0.050732,12878667,coin
+SUPER,SuperCoin,"$648,082",$0.014353,45152457,coin
+UIS,Unitus,"$642,496",$0.013733,46785866,coin
+MOIN,Moin,"$638,640",$0.088139,7245821,coin
+BRO,Bitradio,"$631,530",$0.108409,5825438,coin
+FCN,Fantomcoin,"$623,029",$0.100648,6190179,coin
+CDN,Canada eCoin,"$616,202",$0.006326,97415544,coin
+INSN,InsaneCoin,"$591,091",$0.033538,17624245,coin
+808,808Coin,"$589,947",$0.000648,910624824,coin
+SPRTS,Sprouts,"$561,865",$5.5e-07,"1,01615E+12",coin
+SMLY,SmileyCoin,"$532,042",$0.000020,25960250000,coin
+XSH,SHIELD,"$508,091",$0.001122,452824168,coin
+FJC,FujiCoin,"$501,136",$0.000427,1172421634,coin
+CRM,Cream,"$486,456",$0.010877,44721735,coin
+42,42-coin,"$478,036",$11381.80,41.999999,coin
+DP,DigitalPrice,"$470,603",$0.027661,17013224,coin
+ALTCOM,AltCommunity Coin,"$465,279",$4.70,98960,coin
+VSX,Vsync,"$462,929",$0.004678,98964274,coin
+PROC,ProCurrency,"$459,485",$0.035855,12815205,coin
+DSH,Dashcoin,"$456,067",$0.025950,17574970,coin
+ENT,Eternity,"$449,443",$0.110533,4066145,coin
+XLR,Solaris,"$442,787",$0.812276,545118,coin
+ZER,Zero,"$432,549",$0.227895,1898020,coin
+ELLA,Ellaism,"$431,808",$0.230052,1877000,coin
+LUX,LUXCoin,"$417,105",$1.46,285808,coin
+DNR,Denarius,"$416,281",$0.229865,1810981,coin
+GCN,GCoin,"$411,643",$0.000003,"1,46732E+11",coin
+TYCHO,Tychocoin,"$408,165",$0.081237,5024368,coin
+BLAS,BlakeStar,"$407,223",$0.001654,246246826,coin
+COLX,ColossusXT,"$404,231",$0.000085,4741310215,coin
+OHM,OHM,"$379,269",$0.012868,29472690,coin
+ETHD,Ethereum Dark,"$365,178",$0.243452,1500000,coin
+WOMEN,WomenCoin,"$345,161",$0.007805,44220400,coin
+DEM,Deutsche eMark,"$344,438",$0.012393,27793416,coin
+TRI,Triangles,"$339,864",$4.66,72891,coin
+PAK,Pakcoin,"$338,932",$0.007791,43504800,coin
+IFLT,InflationCoin,"$337,326",$0.000010,32317136372,coin
+TRUMP,TrumpCoin,"$334,592",$0.051116,6545769,coin
+EMB,EmberCoin,"$326,775",$0.000004,92190822724,coin
+MNC,Mincoin,"$301,792",$0.076342,3953175,coin
+SLG,Sterlingcoin,"$269,809",$0.064313,4195273,coin
+ICN,iCoin,"$268,087",$0.009202,29133356,coin
+POST,PostCoin,"$264,562",$0.016672,15868233,coin
+SCORE,Scorecoin,"$263,682",$0.008689,30346591,coin
+BUN,BunnyCoin,"$234,221",$0.000002,"1,02199E+11",coin
+ECO,EcoCoin,"$228,676",$0.217109,1053276,coin
+ATOM,Atomic Coin,"$225,119",$0.017592,12796510,coin
+8BIT,8Bit,"$214,188",$0.183945,1164415,coin
+LTB,LiteBar,"$209,013",$0.266696,783712,coin
+EMP,EMoneyPower,"$203,655",$0.022136,9200000,coin
+EL,Elcoin,"$203,389",$0.018145,11208967,coin
+HODL,HOdlcoin,"$201,125",$0.001366,147243810,coin
+CJ,Cryptojacks,"$200,824",$0.000494,406568581,coin
+BBP,BiblePay,"$188,769",$0.000791,238704958,coin
+KLC,KiloCoin,"$183,457",$0.000935,196297971,coin
+CMPCO,CampusCoin,"$166,682",$0.000747,223234545,coin
+DGC,Digitalcoin,"$158,056",$0.005825,27132389,coin
+ECA,Electra,"$157,464",$0.000007,21536346998,coin
+REE,ReeCoin,"$150,661",$0.000059,2560000000,coin
+ZUR,Zurcoin,"$135,822",$0.001581,85917132,coin
+XCXT,CoinonatX,"$128,600",$0.008740,14713795,coin
+BTG,Bitgem,"$120,823",$2.07,58498,coin
+PRC,PRCoin,"$120,405",$0.008124,14821400,coin
+BSTY,GlobalBoost-Y,"$117,775",$0.009023,13053021,coin
+FRN,Francs,"$117,589",$0.030408,3867080,coin
+RUPX,Rupaya,"$115,324",$0.018977,6077186,coin
+GTC,Global Tour Coin,"$111,729",$0.003738,29887402,coin
+VUC,Virta Unique Coin,"$109,994",$0.001793,61329225,coin
+AMMO,Ammo Rewards,"$106,239",$0.001366,77777777,coin
+BCF,BitcoinFast,"$104,682",$0.024891,4205574,coin
+YAC,Yacoin,"$103,122",$0.000863,119535306,coin
+TEK,TEKcoin,"$101,980",$0.000072,1414054562,coin
+XCO,X-Coin,"$88,093",$0.007113,12384976,coin
+TSE,Tattoocoin,"$84,269",$0.000932,90421856,coin
+CTIC2,Coimatic 2.0,"$81,311",$0.007505,10833750,coin
+4CHN,ChanCoin,"$77,463",$0.011573,6693231,coin
+XCS,CybCSec,"$75,718",$0.006398,11834082,coin
+PASL,Pascal Lite,"$73,498",$0.018620,3947300,coin
+611,SixEleven,"$73,468",$0.171396,428645,coin
+DRS,Digital Rupees,"$73,444",$0.000144,510802961,coin
+MSCN,Master Swiscoin,"$69,296",$0.001565,44290940,coin
+KURT,Kurrent,"$62,767",$0.006328,9919485,coin
+$$$,Money,"$62,627",$0.001365,45887218,coin
+MEOW,Kittehcoin,"$61,993",$0.000003,23905669976,coin
+XVP,Virtacoinplus,"$57,542",$0.006299,9134750,coin
+ITZ,Interzone,"$55,987",$0.043828,1277418,coin
+BOST,BoostCoin,"$55,400",$0.004673,11855487,coin
+LCP,Litecoin Plus,"$53,829",$0.087060,618291,coin
+TAJ,TajCoin,"$46,935",$0.006077,7723036,coin
+ZMC,ZetaMicron,"$43,159",$0.000072,600344291,coin
+NRO,Neuro,"$42,668",$0.001294,32972445,coin
+PLACO,PlayerCoin,"$40,397",$0.001150,35120000,coin
+GLT,GlobalToken,"$33,333",$0.001310,25449100,coin
+CREVA,CrevaCoin,"$31,807",$0.000874,36390750,coin
+GRIM,Grimcoin,"$19,967",$0.001934,10324802,coin
+SCS,Speedcash,"$11,708",$0.044716,261831,coin
+LTCU,LiteCoin Ultra,"$6,454",$0.007845,822702,coin
+BBC,BigBoobsCoin,"$6,378",$0.042056,151662,coin
+NANOX,Project-X,"$6,127",$78281.50,0.078264,coin
+LBTC,LiteBitcoin,"$4,900",$0.001537,3188280,coin
+HMC,HarmonyCoin,"$4,328",$0.008771,493501,coin
+1337,1337,"$1,995",$0.000051,38796775,coin
+EBT,Ebittree Coin,"$1,218",$0.000964,1264511,coin
+FAL,Falcoin,"$1,004",$0.005104,196766,coin
+DMB,Digital Money Bits,$608,$0.001442,421300,coin
+GRE,Greencoin,"$12,650,093",$0.003595,3519232641,coin
+XTO,Tao,"$5,397,207",$0.165493,32612899,coin
+YASH,YashCoin,"$4,313,578",$0.431347,10000249,coin
+STCN,Stakecoin,"$3,796,056",$0.949014,4000000,coin
+AC,AsiaCoin,"$3,771,646",$0.003388,1113101991,coin
+VISIO,Visio,"$2,104,314",$0.041409,50817423,coin
+ATCC,ATC Coin,"$1,999,438",$0.189953,10525960,coin
+MXT,MarteXcoin,"$1,926,925",$0.690936,2788861,coin
+IXC,Ixcoin,"$1,812,965",$0.086335,20999088,coin
+CV2,Colossuscoin V2,"$1,637,371",$0.000072,22775678138,coin
+RNS,Renos,"$1,115,074",$0.033429,33356077,coin
+CRYPT,CryptCoin,"$1,046,336",$0.172611,6061814,coin
+DVC,Devcoin,"$1,036,803",$0.000069,15039857500,coin
+IFC,Infinitecoin,"$1,033,196",$0.000011,90596274910,coin
+CAGE,CageCoin,"$959,169",$0.000009,"1,01168E+11",coin
+DCY,Dinastycoin,"$921,154",$0.000648,1420858063,coin
+UTC,UltraCoin,"$804,758",$0.018117,44419060,coin
+HTC,HitCoin,"$790,539",$0.000072,10996318099,coin
+SDC,ShadowCash,"$778,778",$0.116320,6695133,coin
+TES,TeslaCoin,"$741,949",$0.010117,73333275,coin
+RC,RussiaCoin,"$715,526",$0.085407,8377873,coin
+NOBL,NobleCoin,"$675,960",$0.000292,2311465331,coin
+METAL,MetalCoin,"$669,162",$0.008699,76925527,coin
+ITI,iTicoin,"$633,293",$19.79,32000,coin
+MAX,MaxCoin,"$621,025",$0.010209,60834109,coin
+AU,AurumCoin,"$580,100",$1.96,296216,coin
+HBN,HoboNickels,"$575,080",$0.009633,59696358,coin
+MAC,Machinecoin,"$569,162",$0.028248,20148600,coin
+KOBO,Kobocoin,"$546,846",$0.022139,24700248,coin
+ORB,Orbitcoin,"$538,017",$0.175081,3072963,coin
+BTB,BitBar,"$519,383",$14.83,35024,coin
+BITS,Bitstar,"$506,058",$0.021927,23079737,coin
+TAG,TagCoin,"$483,970",$0.082403,5873181,coin
+UNIT,Universal Currency,"$470,135",$0.036035,13046431,coin
+FC2,FuelCoin,"$467,495",$0.004601,101606375,coin
+MZC,MazaCoin,"$403,348",$0.000301,1341145344,coin
+V,Version,"$390,130",$0.000840,464618839,coin
+PIGGY,Piggycoin,"$381,891",$0.000785,486253135,coin
+AMBER,AmberCoin,"$367,568",$0.008411,43699481,coin
+SMC,SmartCoin,"$365,992",$0.015615,23437755,coin
+BRIT,BritCoin,"$349,226",$0.016420,21268092,coin
+STS,Stress,"$324,285",$0.000574,565134332,coin
+UNI,Universe,"$323,472",$0.032629,9913663,coin
+TROLL,Trollcoin,"$317,436",$0.000563,563975723,coin
+VAL,Valorbit,"$316,816",$0.000072,4405804430,coin
+TOR,Torcoin,"$303,769",$0.960751,316179,coin
+BUCKS,SwagBucks,"$296,702",$0.968147,306464,coin
+GLC,GlobalCoin,"$295,169",$0.004529,65171010,coin
+DAXX,DaxxCoin,"$294,662",$0.000596,494102050,coin
+CARBON,Carboncoin,"$279,587",$0.000018,15392004513,coin
+GAIA,GAIA,"$278,448",$0.011553,24101381,coin
+HONEY,Honey,"$267,868",$0.885375,302547,coin
+RBIES,Rubies,"$267,422",$0.025676,10415252,coin
+WAY,WayGuide,"$266,105",$0.002660,100040708,coin
+BTCS,Bitcoin Scrypt,"$263,058",$0.016040,16399738,coin
+TALK,BTCtalkcoin,"$262,854",$0.004026,65290635,coin
+PR,Prototanium,"$253,289",$1.29,195724,coin
+PXC,Phoenixcoin,"$251,465",$0.004069,61800079,coin
+TIT,Titcoin,"$250,000",$0.005010,49898202,coin
+VLT,Veltor,"$248,629",$0.448098,554855,coin
+I0C,I0Coin,"$243,635",$0.011610,20984056,coin
+KAYI,Kayicoin,"$240,478",$0.000846,284108079,coin
+XPY,PayCoin,"$233,486",$0.019758,11817194,coin
+LANA,LanaCoin,"$233,275",$0.000282,828455198,coin
+OPAL,Opal,"$220,996",$0.014594,15143017,coin
+CNO,Coin(O),"$219,382",$0.002086,105158349,coin
+VIDZ,PureVidz,"$218,200",$0.001742,125279775,coin
+FLT,FlutterCoin,"$210,935",$0.000655,322214524,coin
+GUN,Guncoin,"$210,366",$0.001078,195102628,coin
+LOT,LottoCoin,"$208,240",$0.000014,14491014421,coin
+SPEX,SproutsExtreme,"$206,084",$0.000072,2866607586,coin
+XPTX,PlatinumBAR,"$205,659",$0.553557,371523,coin
+ELE,Elementrem,"$205,085",$0.007980,25700194,coin
+FUNK,The Cypherfunks,"$204,253",$0.000004,46104732499,coin
+FRC,Freicoin,"$202,462",$0.006902,29335750,coin
+DRXNE,DROXNE,"$197,970",$0.003199,61882783,coin
+FLY,Flycoin,"$191,121",$0.906620,210806,coin
+XJO,Joulecoin,"$188,834",$0.005517,34226524,coin
+TRK,Truckcoin,"$186,016",$0.001224,152027328,coin
+XGR,GoldReserve,"$185,171",$0.010784,17171382,coin
+CORG,CorgiCoin,"$181,174",$0.000145,1251855418,coin
+NYAN,Nyancoin,"$177,411",$0.000560,317056385,coin
+CCN,Cannacoin,"$175,400",$0.037323,4699498,coin
+CUBE,DigiCube,"$174,633",$0.000072,2429126009,coin
+SAC,SACoin,"$173,504",$0.073473,2361470,coin
+BOLI,Bolivarcoin,"$170,909",$0.021035,8125025,coin
+TTC,TittieCoin,"$168,286",$0.000134,1259816434,coin
+XRA,Ratecoin,"$165,307",$0.001456,113513539,coin
+Q2C,QubitCoin,"$160,547",$0.000647,248131871,coin
+SH,Shilling,"$158,847",$0.004094,38796775,coin
+UNIC,UniCoin,"$156,825",$0.052942,2962186,coin
+XPD,PetroDollar,"$155,101",$0.002424,63993275,coin
+KED,Darsek,"$155,011",$0.011554,13416019,coin
+BIGUP,BigUp,"$152,042",$0.000072,2114598444,coin
+J,Joincoin,"$148,456",$0.060634,2448402,coin
+MAD,SatoshiMadness,"$143,832",$0.000072,2000683485,coin
+MNM,Mineum,"$142,462",$0.015097,9436367,coin
+XRE,RevolverCoin,"$140,756",$0.006326,22248856,coin
+PIE,PIECoin,"$138,354",$0.006542,21148204,coin
+EMD,Emerald Crypto,"$138,170",$0.007228,19117129,coin
+EVIL,Evil Coin,"$136,745",$0.006505,21020383,coin
+GRT,Grantcoin,"$134,966",$0.003147,42888561,coin
+TGC,Tigercoin,"$134,586",$0.003091,43536800,coin
+MOJO,MojoCoin,"$133,838",$0.011039,12124398,coin
+CNNC,Cannation,"$132,544",$0.053512,2476893,coin
+CTO,Crypto,"$132,400",$0.011143,11881773,coin
+PX,PX,"$128,042",$0.001359,94243385,coin
+BERN,BERNcash,"$127,254",$0.001786,71234301,coin
+CHESS,ChessCoin,"$122,276",$0.002263,54032769,coin
+WYV,Wyvern,"$121,468",$0.071891,1689614,coin
+BLC,Blakecoin,"$119,416",$0.007896,15122697,coin
+EVO,Evotion,"$119,086",$0.037814,3149253,coin
+MAY,Theresa May Coin,"$116,961",$0.005032,23241600,coin
+KUSH,KushCoin,"$116,872",$0.021462,5445524,coin
+BXT,BitTokens,"$114,869",$0.205858,558000,coin
+SWAT,SWTCoin,"$113,426.33",$$0.0002,498774592,coin
+888,OctoCoin,"$111,263",$0.002223,50044900,coin
+BUMBA,BumbaCoin,"$111,055",$0.004960,22387948,coin
+SWING,Swing,"$107,768",$0.040178,2682229,coin
+GB,GoldBlocks,"$107,073",$0.007159,14956512,coin
+CAP,Bottlecaps,"$102,284",$0.000514,198876953,coin
+BITZ,Bitz,"$100,046",$0.050252,1990891,coin
+ACOIN,Acoin,"$99,091",$0.081216,1220085,coin
+HMP,HempCoin,"$97,531",$0.000072,1356645470,coin
+WMC,WMCoin,"$96,132",$0.008339,11527489,coin
+GAP,Gapcoin,"$94,106",$0.007912,11893409,coin
+XCT,C-Bit,"$93,468",$0.000594,157223250,coin
+URC,Unrealcoin,"$92,919",$0.013228,7024402,coin
+CACH,CacheCoin,"$92,906",$0.022146,4195132,coin
+SPACE,SpaceCoin,"$90,926",$0.004388,20723188,coin
+KIC,KibiCoin,"$90,634",$0.006165,14701000,coin
+XLC,LeviarCoin,"$89,895",$0.009433,9529502,coin
+LEA,LeaCoin,"$88,628",$0.000287,308973490,coin
+C2,Coin2.1,"$88,603",$0.000886,99976323,coin
+DLC,Dollarcoin,"$88,383",$0.009705,9106714,coin
+GP,GoldPieces,"$86,997",$0.071300,1220161,coin
+QCN,QuazarCoin,"$86,915",$0.014378,6044911,coin
+20,020LondonCoin,"$86,167",$5.5e-07,"1,56705E+11",coin
+FLAX,Flaxscript,"$85,362",$0.015296,5580596,coin
+GPU,GPU Coin,"$84,663",$0.002092,40477042,coin
+ANTI,AntiBitcoin,"$84,125",$0.004817,17465159,coin
+PHS,Philosopher Stones,"$82,584",$0.013731,6014340,coin
+CASH,Cashcoin,"$82,200",$0.001797,45735979,coin
+FRK,Franko,"$81,702",$0.087779,930767,coin
+USDE,USDe,"$81,542",$0.000072,1134236104,coin
+CON,PayCon,"$80,866",$0.003509,23042604,coin
+ISL,IslaCoin,"$80,637",$0.053271,1513704,coin
+ARI,Aricoin,"$80,297",$0.000572,140262505,coin
+WORM,HealthyWormCoin,"$79,694",$0.000719,110854078,coin
+SLING,Sling,"$77,295",$0.071963,1074095,coin
+FIRE,Firecoin,"$75,638",$0.768589,98412,coin
+CRX,Chronos,"$74,863",$0.001015,73729962,coin
+CAT,Catcoin,"$73,605",$0.012006,6130750,coin
+DUO,ParallelCoin,"$72,106",$0.239096,301578,coin
+HAL,Halcyon,"$70,771",$0.013587,5208585,coin
+ADCN,Asiadigicoin,"$69,901",$0.002804,24931054,coin
+XCRE,Creatio,"$69,499",$0.003387,20520514,coin
+DRM,Dreamcoin,"$69,386",$0.028325,2449632,coin
+RED,RedCoin,"$68,569",$0.000925,74107896,coin
+STV,Sativacoin,"$68,258",$0.009633,7085545,coin
+CPN,CompuCoin,"$66,569",$0.003394,19615019,coin
+ARCO,AquariusCoin,"$66,353",$0.045651,1453498,coin
+VC,VirtualCoin,"$63,671",$0.006326,10064287,coin
+SRC,SecureCoin,"$63,007",$0.007737,8143306,coin
+RBT,Rimbit,"$62,283",$0.000539,115499623,coin
+EUC,Eurocoin,"$62,279",$0.005043,12350878,coin
+ARG,Argentum,"$61,998",$0.007360,8423374,coin
+UNITS,GameUnits,"$61,660",$0.017754,3472983,coin
+SLM,Slimcoin,"$61,211",$0.004098,14937439,coin
+PXI,Prime-XI,"$60,828",$0.003492,17417715,coin
+NEVA,NevaCoin,"$59,860",$0.025192,2376155,coin
+VEC2,Vector,"$59,353",$0.003595,16512002,coin
+ALL,Allion,"$58,526",$0.009441,6199359,coin
+BTCR,Bitcurrency,"$57,680",$0.000340,169598616,coin
+BTQ,BitQuark,"$56,840",$0.006398,8883556,coin
+CYP,Cypher,"$56,121",$0.008817,6365285,coin
+MARS,Marscoin,"$55,473",$0.001962,28279074,coin
+JWL,Jewels,"$55,133",$0.002732,20181636,coin
+BVC,BeaverCoin,"$53,974",$0.017326,3115258,coin
+ICOB,ICOBID,"$53,203",$0.000500,106340646,coin
+SPT,Spots,"$52,932",$0.002362,22406021,coin
+XBTC21,Bitcoin 21,"$52,456",$0.066140,793108,coin
+QTL,Quatloo,"$52,169",$0.006759,7718883,coin
+MST,MustangCoin,"$51,751",$0.082100,630343,coin
+RPC,RonPaulCoin,"$51,348",$0.057802,888340,coin
+SCRT,SecretCoin,"$51,073",$0.012078,4228672,coin
+BRAIN,Braincoin,"$50,638",$0.005032,10062481,coin
+CWXT,CryptoWorldX Token,"$49,843",$0.000836,59630200,coin
+PONZI,PonziCoin,"$49,462",$0.057441,861099,coin
+ARB,ARbit,"$48,957",$0.006402,7647300,coin
+MAR,Marijuanacoin,"$48,831",$0.034478,1416320,coin
+BLRY,BillaryCoin,"$48,455",$0.005389,8991545,coin
+CXT,Coinonat,"$48,216",$0.005591,8623200,coin
+URO,Uro,"$48,116",$0.039854,1207310,coin
+IMS,Independent Money System,"$47,582",$0.008862,5368934,coin
+ERY,Eryllium,"$47,270",$0.009411,5022892,coin
+MTLMC3,Metal Music Coin,"$45,390",$0.000569,79719140,coin
+BSTAR,Blackstar,"$45,349",$0.000072,630795971,coin
+DBTC,Debitcoin,"$45,198",$0.002511,17999568,coin
+BTPL,Bitcoin Planet,"$43,210",$0.007988,5409111,coin
+ATX,Artex Coin,"$43,163",$0.002298,18781750,coin
+POP,PopularCoin,"$42,861",$0.000013,3372875244,coin
+MCRN,MACRON,"$42,066",$0.000105,401421401,coin
+CESC,CryptoEscudo,"$41,440",$0.000288,144105100,coin
+BIP,BipCoin,"$40,360",$0.024803,1627261,coin
+DAS,DAS,"$39,565",$0.015084,2622886,coin
+GCC,GuccioneCoin,"$39,375",$0.001941,20285537,coin
+ZYD,Zayedcoin,"$39,052",$0.006255,6243840,coin
+PHO,Photon,"$38,940",$0.000002,20108332553,coin
+ASAFE2,AllSafe,"$38,446",$0.004788,8030000,coin
+JOBS,JobsCoin,"$38,109",$0.000359,106019270,coin
+GPL,Gold Pressed Latinum,"$37,652",$0.150324,250473,coin
+FLVR,FlavorCoin,"$37,560",$0.001797,20898106,coin
+WARP,WARP,"$37,400",$0.034148,1095224,coin
+MND,MindCoin,"$36,982",$0.002948,12546625,coin
+AGLC,AgrolifeCoin,"$36,955",$0.005248,7041724,coin
+SOON,SoonCoin,"$36,906",$0.002961,12462620,coin
+PLNC,PLNcoin,"$36,858",$0.002157,17089600,coin
+IMX,Impact,"$36,857",$0.000337,109508975,coin
+HXX,Hexx,"$34,829",$0.023695,1469899,coin
+CMT,Comet,"$34,557",$0.039592,872830,coin
+COAL,BitCoal,"$33,967",$0.007548,4500000,coin
+SONG,SongCoin,"$33,885",$0.001041,32565300,coin
+SOIL,SOILcoin,"$31,972",$0.005607,5702048,coin
+G3N,G3N,"$31,531",$0.004170,7561891,coin
+BLZ,BlazeCoin,"$31,177",$0.000051,608557394,coin
+VLTC,Vault Coin,"$31,134",$0.001030,30240530,coin
+PULSE,Pulse,"$30,839",$0.002157,14298972,coin
+STEPS,Steps,"$30,796",$0.001654,18625017,coin
+JIN,Jin Coin,"$30,445",$0.003091,9848485,coin
+CAB,Cabbage,"$30,295",$0.002885,10499996,coin
+SLEVIN,Slevin,"$30,194",$0.000431,70000000,coin
+SFC,Solarflarecoin,"$29,382",$0.002086,14083450,coin
+ORLY,Orlycoin,"$28,980",$0.000791,36646779,coin
+OFF,Cthulhu Offerings,"$28,939",$0.011036,2622273,coin
+BSC,BowsCoin,"$28,862",$0.005200,5550102,coin
+WBB,Wild Beast Block,"$28,016",$0.178311,157117,coin
+CRT,CRTCoin,"$27,354",$0.345078,79270,coin
+PSB,Pesobit,"$27,201",$0.000811,33536647,coin
+GBC,GBCGoldCoin,"$27,177",$0.002392,11361817,coin
+BENJI,BenjiRolls,"$27,025",$0.001335,20242646,coin
+ACP,AnarchistsPrime,"$26,229",$0.005968,4394874,coin
+GBT,GameBet Coin,"$25,986",$0.001222,21262780,coin
+ICON,Iconic,"$25,446",$0.042919,592894,coin
+VPRC,VapersCoin,"$25,220",$0.000032,780124964,coin
+TSTR,Tristar Coin,"$24,941",$0.004960,5027857,coin
+BIOS,BiosCrypto,"$23,641",$0.001135,20821709,coin
+KRONE,Kronecoin,"$23,342",$0.007560,3087387,coin
+IMPS,ImpulseCoin,"$23,288",$0.001150,20245510,coin
+TAGR,TAGRcoin,"$22,482",$0.000581,38669634,coin
+IBANK,iBank,"$22,127",$0.004889,4526324,coin
+XBTS,Beatcoin,"$21,739",$0.014258,1524686,coin
+EGO,EGO,"$21,567",$0.000359,60000001,coin
+DLISK,DAPPSTER,"$21,567",$0.000216,100000000,coin
+MILO,MiloCoin,"$21,300",$0.001974,10789954,coin
+LIR,LetItRide,"$20,833",$0.000575,36223342,coin
+PRX,Printerium,"$20,237",$0.001712,11821728,coin
+KNC,KingN Coin,"$20,218",$10.07,2007,coin
+LUNA,Luna Coin,"$20,026",$0.012555,1594989,coin
+BOAT,Doubloon,"$18,662",$0.001006,18547845,coin
+PEX,PosEx,"$18,342",$0.007477,2453240,coin
+FUZZ,FuzzBalls,"$18,322",$0.003793,4829945,coin
+BQC,BBQCoin,"$18,248",$0.000359,50765854,coin
+VIP,VIP Tokens,"$17,998",$0.000216,83450403,coin
+SOCC,SocialCoin,"$17,664",$0.012755,1384879,coin
+DPAY,DPAY,"$17,155",$0.000216,79541001,coin
+DOLLAR,Dollar Online,"$16,311",$0.021639,753776,coin
+LTCR,Litecred,"$16,234",$0.000537,30227750,coin
+HVCO,High Voltage,"$16,220",$0.010856,1494171,coin
+ZNE,Zonecoin,"$15,963",$0.006183,2581970,coin
+RSGP,RSGPcoin,"$15,283",$8.85,1727,coin
+DES,Destiny,"$15,068",$0.009418,1600000,coin
+CNC,CHNCoin,"$14,832",$0.000325,45570823,coin
+OS76,OsmiumCoin,"$14,783",$0.016535,894026,coin
+RIDE,Ride My Car,"$14,562",$0.000144,101276976,coin
+BNX,BnrtxCoin,"$14,443",$0.000576,25080501,coin
+XOC,Xonecoin,"$13,950",$0.033214,420000,coin
+MRNG,MorningStar,"$13,596",$0.000419,32478953,coin
+ALTC,Antilitecoin,"$13,593",$0.000431,31512613,coin
+BIOB,BioBar,"$13,245",$0.014953,885756,coin
+MGM,Magnum,"$11,975",$0.003072,3898171,coin
+WEX,Wexcoin,"$11,232",$0.042103,266782,coin
+REV,Revenu,"$11,001",$0.009202,1195525,coin
+SDP,SydPak,"$9,249",$0.057944,159612,coin
+SLFI,Selfiecoin,"$7,752",$0.000072,107829281,coin
+TRADE,Tradecoin,"$7,685",$0.001078,7126650,coin
+SANDG,Save and Gain,"$7,271",$0.002372,3064800,coin
+ARGUS,Argus,"$7,200",$0.006270,1148324,coin
+ELS,Elysium,"$6,910",$0.001725,4005012,coin
+GEERT,GeertCoin,"$6,640",$0.001304,5091200,coin
+VOLT,Bitvolt,"$6,519",$0.000431,15112554,coin
+VTA,Virtacoin,"$6,457",$0.000001,5201310113,coin
+NODC,NodeCoin,"$6,122",$0.003647,1678439,coin
+LVPS,LevoPlus,"$6,059",$0.004959,1221654,coin
+XRC,Rawcoin,"$5,682",$0.008061,704882,coin
+WBC,WalletBuildersCoin,"$5,124",$0.273258,18751,coin
+P7C,P7Coin,"$5,064",$0.000144,35220238,coin
+XNG,Enigma,"$3,586",$0.215674,16627,coin
+PWR,Powercoin,"$3,573",$0.000071,49983870,coin
+CONX,Concoin,"$2,996",$0.004026,744266,coin
+CF,Californium,"$2,948",$0.026528,111110,coin
+FRAZ,Frazcoin,"$2,741",$0.000312,8772322,coin
+PIZZA,PizzaCoin,"$1,981",$0.001438,1377917,coin
+TOKEN,SwapToken,"$1,759",$1.1e-07,15320585365,coin
+MNC,MantraCoin,"$1,657",$0.000356,4650380,coin
+GSR,GeyserCoin,"$1,583",$0.033789,46864,coin
+ULA,Ulatech,"$1,232",$0.012671,97251,coin
+DGCS,Digital Credits,$838,$0.000144,5826388,coin
+ENV,Environ,$778,$0.000006,132717518,coin
+SOJ,Sojourn,$759,$0.001563,485214,coin
+ABN,Abncoin,$720,$0.010640,67700,coin
+FDC,Future Digital Currency,$186,$0.000067,2753201,coin
+CALC,CaliphCoin,$58,$0.000666,87140,coin
+APW,AppleCoin,$5,$0.000072,62846,coin
+BTG,[[Bitcoin Gold [Futures] ]],,$185.14,,coin
+REC,Regalcoin,,$63.71,,coin
+FRGC,Fargocoin,,$8.23,,coin
+FRST,FirstCoin,,$16.78,,coin
+B2X,SegWit2x Futures,,$479.26,,coin
+XIN,Infinity Economics,,$0.075490,,coin
+SIC,Swisscoin,,$0.009346,,coin
+DSR,Desire,,$0.752701,,coin
+THS,TechShares,,$0.718521,,coin
+CLUB,ClubCoin,,$1.75,,coin
+XTZ,Tezos,,$1.73,,coin
+CHEAP,Cheapcoin,,$0.000647,,coin
+HIGH,High Gain,,$0.003451,,coin
+MSD,MSD,,$0.015169,,coin
+BTU,Bitcoin Unlimited,,$156.00,,coin
+BPL,Blockpool,,$0.350802,,coin
+BUZZ,BuzzCoin,,$0.000323,,coin
+DEUS,DeusCoin,,$0.435373,,coin
+PHR,Phore,,$0.337881,,coin
+GBG,Golos Gold,,$0.108288,,coin
+MGC,GulfCoin,,$0.007980,,coin
+RMC,Russian Mining Coin,,$9345.33,,coin
+AKY,Akuya Coin,,$0.409780,,coin
+LAZ,Lazaruscoin,,$0.002157,,coin
+BTBc,Bitbase,,$0.022646,,coin
+PURE,Pure,,$0.452195,,coin
+BSR,BitSoar,,$0.123437,,coin
+SIGMA,SIGMAcoin,,$0.044391,,coin
+FOR,FORCE,,$0.002768,,coin
+TER,TerraNova,,$4.25,,coin
+VASH,VPNCoin,,$0.004745,,coin
+RUNNERS,Runners,,$0.000359,,coin
+BSN,Bastonet,,$0.001006,,coin
+MEN,PeopleCoin,,$0.000072,,coin
+DUTCH,Dutch Coin,,$0.000863,,coin
+BOS,BOScoin,,$1.29,,coin
+TCOIN,T-coin,,$0.000144,,coin
+APC,AlpaCoin,,$0.002876,,coin
+ECC,ECC,,$0.000216,,coin
+VULC,Vulcano,,$0.015716,,coin
+STARS,StarCash Network,,$0.201310,,coin
+PRIMU,Primulon,,$0.000305,,coin
+TELL,Tellurion,,$0.000431,,coin
+GRN,Granite,,$0.010137,,coin
+ACES,Aces,,$0.000277,,coin
+AURS,Aureus,,$14.98,,coin
+DFS,DFSCoin,,$0.007427,,coin
+AMS,AmsterdamCoin,,$0.006633,,coin
+PCS,Pabyosi Coin,,$0.062112,,coin
+PAC,Paccoin,,$3.2e-07,,coin
+ATMC,ATMCoin,,$1.44,,coin
+WA,WA Space,,$0.014019,,coin
+ACC,AdCoin,,$0.091212,,coin
+XSTC,Safe Trade Coin,,$0.000072,,coin
+XTD,XTD Coin,,$0.000072,,coin
+XID,International Diamond,,$0.006398,,coin
+KARMA,Karmacoin,,$0.000072,,coin
+COUPE,Coupecoin,,$0.000013,,coin
+NAMO,NamoCoin,,$0.000213,,coin
+CYDER,Cyder,,$0.000575,,coin
+BIXC,BIXC,,$2.88,,coin
+BIRDS,Birds,,$0.000144,,coin
+FLASH,Flash,,$0.005032,,coin
+REGA,Regacoin,,$0.002876,,coin
+HCC,Happy Creator Coin,,$0.000288,,coin
+9COIN,9COIN,,$0.003882,,coin
+INDIA,India Coin,,$0.000216,,coin
+SHND,StrongHands,,$2e-08,,coin
+PRN,Protean,,$0.000045,,coin
+WINK,Wink,,$0.000341,,coin
+LDCN,LandCoin,,$0.000918,,coin
+ZBC,Zilbercoin,,$0.037361,,coin
+PEC,Peacecoin,,$0.005176,,coin
+UNRC,UniversalRoyalCoin,,$0.000935,,coin
+RCN,Rcoin,,$0.000072,,coin
+RBBT,RabbitCoin,,$0.000002,,coin
+MARX,MarxCoin,,$0.000885,,coin
+MOTO,Motocoin,,$0.004722,,coin
+LEPEN,LePen,,$0.000076,,coin
+RUPX,Rupaya OLD,,$0.004385,,coin
+XQN,Quotient,,$0.005751,,coin
+HALLO,Halloween Coin,,$0.000179,,coin
+BCCS,BitcoinCashScrypt,,$0.009490,,coin
+BIT,First Bitcoin,,$0.013587,,coin
+UR,UR,,$0.000857,,coin
+AXIOM,Axiom,,$0.011215,,coin
+FLAP,FlappyCoin,,$0.000001,,coin
+YES,Yescoin,,$0.000006,,coin
+BUB,Bubble,,$0.030913,,coin
+NBIT,netBit,,$0.034508,,coin
+TURBO,TurboCoin,,$0.000072,,coin
+BAT,BatCoin,,$0.000003,,coin
+SHA,SHACoin,,$0.000647,,coin
+QBT,Cubits,,$0.000712,,coin
+HNC,Huncoin,,$0.002732,,coin
+DASHS,Dashs,,$0.024012,,coin
+SKR,Sakuracoin,,$0.001009,,coin
+VOYA,Voyacoin,,$2.52,,coin
+RUBIT,RubleBit,,$0.002733,,coin
+BET,BetaCoin,,$0.003218,,coin
+ACN,Avoncoin,,$0.000288,,coin
+ANTX,Antimatter,,$0.000072,,coin
+WEC,Wowecoin,,$0.110000,,coin
+BEST,BestChain,,$0.001239,,coin
+BXC,Bitcedi,,$0.001455,,coin
+MONEY,MoneyCoin,,$0.000072,,coin
+WOW,Wowcoin,,$0.000140,,coin
+TOP,TopCoin,,$0.000359,,coin
+DISK,DarkLisk,,$0.000935,,coin
+ELC,Elacoin,,$0.081474,,coin
+WSX,WeAreSatoshi,,$0.001150,,coin
+FFC,FireFlyCoin,,$0.000072,,coin
+BLAZR,BlazerCoin,,$0.001137,,coin
+XVE,The Vegan Initiative,,$0.000359,,coin
+LKC,LinkedCoin,,$0.000144,,coin
+FUTC,FutCoin,,$0.002804,,coin
+ANI,Animecoin,,$0.000144,,coin
+PDG,PinkDog,,$0.000144,,coin
+SFE,SafeCoin,,$0.000072,,coin
+IVZ,InvisibleCoin,,$0.165637,,coin
+BITOK,Bitok,,$0.000072,,coin
+DON,Donationcoin,,$0.000646,,coin
+SAK,Sharkcoin,,$0.002625,,coin
+MBL,MobileCash,,$0.000288,,coin
+UNC,UNCoin,,$0.000072,,coin
+MRJA,GanjaCoin,,$0.037311,,coin
+AV,AvatarCoin,,$0.021927,,coin
+TCR,TheCreed,,$0.000288,,coin
+GAIN,UGAIN,,$0.000825,,coin
+QBC,Quebecoin,,$0.001222,,coin
+GMX,GoldMaxCoin,,$0.000503,,coin
+QORA,Qora,,$0.125671,,coin
+TODAY,TodayCoin,,$0.000503,,coin
+OP,Operand,,$0.000863,,coin
+MMXVI,MMXVI,,$0.002588,,coin
+SPORT,SportsCoin,,$0.000503,,coin
+AIB,Advanced Internet Blocks,,$0.002732,,coin
+DBG,Digital Bullion Gold,,$0.004098,,coin
+DUB,Dubstep,,$0.001438,,coin
+GOLF,Golfcoin,,$0.000072,,coin
+PRM,PrismChain,,$0.000863,,coin
+ASN,Aseancoin,,$0.002157,,coin
+TRICK,TrickyCoin,,$0.008267,,coin
+OCOW,OCOW,,$0.003595,,coin
+XDE2,XDE II,,$4.15,,coin
+CBD,CBD Crystals,,$0.001510,,coin
+DCRE,DeltaCredits,,$0.184832,,coin
+EGG,EggCoin,,$0.030841,,coin
+TOPAZ,Topaz Coin,,$0.041697,,coin
+EXL,Excelcoin,,$0.000144,,coin
+SKULL,Pirate Blocks,,$0.003010,,coin
+MONETA,Moneta,,$0.000359,,coin
+X2,X2,,$0.000072,,coin
+FONZ,Fonziecoin,,$0.000431,,coin
+FRWC,FrankyWillCoin,,$0.002732,,coin
+NBE,BitCentavo,,$0.000001,,coin
+SKC,Skeincoin,,$0.001941,,coin
+EDRC,EDRCoin,,$0.036237,,coin
+HYPER,Hyper,,$0.017973,,coin
+OPES,Opescoin,,$0.001725,,coin
+MAVRO,Mavro,,$0.008843,,coin
+PSY,Psilocybin,,$0.014378,,coin
+CLINT,Clinton,,$0.008483,,coin
+RHFC,RHFCoin,,$0.001150,,coin
+ZSE,ZSEcoin,,$0.008295,,coin
+ROYAL,RoyalCoin,,$0.003235,,coin
+XAU,Xaucoin,,$0.016319,,coin
+SHELL,ShellCoin,,$0.016823,,coin
+IRL,IrishCoin,,$0.002013,,coin
+CC,CyberCoin,,$0.000072,,coin
+POKE,PokeCoin,,$0.000072,,coin
+OMC,Omicron,,$0.075845,,coin
+XRY,Royalties,,$0.056363,,coin
+FAZZ,Fazzcoin,,$0.001797,,coin
+CYC,Cycling Coin,,$0.001150,,coin
+UTA,UtaCoin,,$0.001510,,coin
+GBRC,Global Business Revolution,,$0.000144,,coin
+PCN,PeepCoin,,$0.000072,,coin
+MAGN,Magnetcoin,,$0.361756,,coin
+KASHH,KashhCoin,,$0.000019,,coin
+GAY,GAY Money,,$0.013563,,coin
+ASC,AsicCoin,,$0.000274,,coin
+VGC,VegasCoin,,$0.000218,,coin
+SYNC,Sync,,$533.11,,coin
+GML,GameLeagueCoin,,$0.007836,,coin
+BGR,Bongger,,$0.000052,,coin
+CME,Cashme,,$0.000072,,coin
+BAC,BitAlphaCoin,,$0.003101,,coin
+PAYP,PayPeer,,$0.000074,,coin
+SOUL,SoulCoin,,$0.000072,,coin
+RICHX,RichCoin,,$0.006448,,coin
+LTH,LAthaan,,$0.000508,,coin
+TEAM,TeamUp,,$0.000151,,coin
+AXF,AxFunds,,$0.029409,,coin
+TERA,TeraCoin,,$0.000072,,coin
+TLE,Tattoocoin,,$0.028279,,coin
+TYC,Tyrocoin,,$0.040928,,coin
+PI,PiCoin,,$0.001305,,coin
+ADK,Aidos Kuneen,,$31.41,,coin
+FID,BITFID,,$0.144073,,coin
+mrc,microcoin,,$0.000073,,coin
+MGC,MergeCoin,,,,coin
+HATCH,Hatch,,$0.000001,,coin
+APR,APR Coin,$1.574.179,"$3,15",500087,coin
