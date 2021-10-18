@@ -12,3 +12,4 @@ dependencies:
   - discord
   - pip:
     - table2ascii
+    - finvizfinance

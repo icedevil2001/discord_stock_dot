@@ -1,10 +1,15 @@
+from pandas.core.frame import DataFrame
 import yfinance as yf
 import pandas as pd 
 from pathlib import Path
 from typing import List, Union
-import numpy as np
-from bs4 import BeautifulSoup as soup
-from urllib.request import Request, urlopen
+import numpy as n
+
+from finvizfinance.quote import finvizfinance
+from finvizfinance.news import News
+from finvizfinance.insider import Insider
+from finvizfinance.screener.overview import Overview
+from stocky import config  
 
 basedir  = Path(__file__).parent
 
@@ -32,7 +37,7 @@ def stockprice(symbols: Union[List[str], str], period: str='ytd',
     df = yf.download(symbols,period=period, inveral=inveral, prepost=prepost, rounding=rounding, **kwargs)
     return df
 
-def last_stock_price(symbols: list):
+def last_stock_price(symbols: list) -> pd.DataFrame:
 
     df = stockprice(symbols, inveral='1m', period='5d')
     df = df.reset_index()
@@ -43,81 +48,49 @@ def last_stock_price(symbols: list):
     return df.reset_index()
 
 
-class FinVis:
-    def __init__(self, symbol) -> None:
-        self.symbol = symbol
-        self.html = self.scraper(symbol)
+def top_owner_trade(option: str='top owner trade') -> pd.DataFrame:
+    '''
+    Show insider traders
+    option: latest, top week, top owner trade
+    default: latest
+    '''
+    return Insider(option='top owner trade').getInsider()
 
-    def scraper(self, symbol):
-        ## https://medium.datadriveninvestor.com/scraping-live-stock-fundamental-ratios-news-and-more-with-python-a716329e0493
-        # Set up scraper
-        url = ("http://finviz.com/quote.ashx?t=" + symbol.lower())
-        req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-        webpage = urlopen(req).read()
-        return soup(webpage, "html.parser")
 
-    def get_fundamentals(self):
-        try:
-            # Find fundamentals table
-            fundamentals = pd.read_html(str(self.html), attrs = {'class': 'snapshot-table2'})[0]
-            
-            # Clean up fundamentals dataframe
-            fundamentals.columns = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11']
-            colOne = []
-            colLength = len(fundamentals)
-            for k in np.arange(0, colLength, 2):
-                colOne.append(fundamentals[f'{k}'])
-            attrs = pd.concat(colOne, ignore_index=True)
-        
-            colTwo = []
-            colLength = len(fundamentals)
-            for k in np.arange(1, colLength, 2):
-                colTwo.append(fundamentals[f'{k}'])
-            vals = pd.concat(colTwo, ignore_index=True)
-            
-            fundamentals = pd.DataFrame()
-            fundamentals['Attributes'] = attrs
-            fundamentals['Values'] = vals
-            fundamentals = fundamentals.set_index('Attributes')
-            return fundamentals
+def get_news() -> pd.DataFrame:
+    '''
+    Get general new 
+    '''
+    return News().getNews()['news'].head(10)
 
-        except Exception as e:
-            return e
+
+def get_stock_new(symbol) -> pd.DataFrame:
+    '''
+    Get news specific to the stock 
+    '''
+    stock = finvizfinance(symbol)
+    return stock.TickerNews()
     
-    def get_news(self):
-        try:
-            # Find news table
-            news = pd.read_html(str(self.html), attrs = {'class': 'fullview-news-outer'})[0]
-            links = []
-            for a in self.html.find_all('a', class_="tab-link-news"):
-                links.append(a['href'])
-            
-            # Clean up news dataframe
-            news.columns = ['Date', 'News Headline']
-            news['Article Link'] = links
-            news = news.set_index('Date')
-            return news
+def get_chart(symbol) -> Path:
+    '''
+    Download chart from finvis
+    return: Chart path
+    '''
+    stock = finvizfinance(symbol)
+    stock.TickerCharts(out_dir=config.CHARTPATH)
+    
+    return Path(config.CHARTPATH) / f'{symbol}.jpg'
 
-        except Exception as e:
-            return e
+def get_stock_description(symbol) -> str:
+    stock = finvizfinance(symbol)
+    return stock.TickerDescription()
 
-    def get_insider(self):
-        try:
-            # Find insider table
-            insider = pd.read_html(str(self.html), attrs = {'class': 'body-table'})[0]
-            
-            # Clean up insider dataframe
-            insider = insider.iloc[1:]
-            insider.columns = ['Trader', 'Relationship', 'Date', 'Transaction', 'Cost', '# Shares', 'Value ($)', '# Shares Total', 'SEC Form 4']
-            insider = insider[['Date', 'Trader', 'Relationship', 'Transaction', 'Cost', '# Shares', 'Value ($)', '# Shares Total', 'SEC Form 4']]
-            insider = insider.set_index('Date')
-            return insider
+def get_stock_rating(symbol) -> pd.DataFrame:
+    stock = finvizfinance(symbol)
+    return stock.TickerOuterRatings()
 
-        except Exception as e:
-            return e
+def get_stock_(symbol) -> list:
+    stock = finvizfinance(symbol)
+    return stock.TickerSignal()
 
-fv = FinVis('AAPL')
 
-print(fv.get_fundamentals())
-print(fv.get_news())
-print(fv.get_insider())

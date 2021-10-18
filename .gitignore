@@ -4,6 +4,8 @@ __pycache__/
 *$py.class
 .env
 *.log[s]
+*.png
+*.jpg
 
 # C extensions
 *.so
